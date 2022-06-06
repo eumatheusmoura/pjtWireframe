@@ -3,5 +3,10 @@
 @import "./variaveis.css";
 @import "./patterns.css";
 
-@import "./header.css";
 @import "./responsivo.css";
+
+/* ============ HEADER/CABECALHO ============ */
+@import "./header.css";
+
+/* ============ HERO/INTRO ============ */
+@import "./intro.css";
